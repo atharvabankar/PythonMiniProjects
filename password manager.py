@@ -1,4 +1,4 @@
-
+pip install cryptography
 from cryptography.fernet import fernet
 
 def write_key():
